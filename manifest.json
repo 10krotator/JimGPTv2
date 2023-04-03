@@ -1,8 +1,8 @@
 {
   "manifest_version": 2,
-  "name": "Wordnik Lookup Word",
+  "name": "Explainooor",
   "version": "1.0",
-  "description": "This extension shows how you communicate back to a pop-up from the content.",
+  "description": "Explainooor uses chatgpt to explain the content you have highlighted.",
   "browser_action": {
     "default_icon": "icon48.png",
     "default_popup": "popup.html"

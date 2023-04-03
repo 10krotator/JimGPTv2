@@ -31,7 +31,7 @@ async function setup() {
     body: JSON.stringify({
       "model": "text-davinci-003",
       "prompt": prompt,
-      "max_tokens": 50,
+      "max_tokens": 100,
       "n": 1,
       "stop": null,
       "temperature": 1,
