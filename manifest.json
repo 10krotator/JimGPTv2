@@ -1,8 +1,8 @@
 {
   "manifest_version": 2,
-  "name": "Explainooor",
+  "name": "JimGPT",
   "version": "1.0",
-  "description": "Explainooor uses chatgpt to explain the content you have highlighted.",
+  "description": "JimGPT uses chatgpt to provide a contextual Mark Twain quote.",
   "browser_action": {
     "default_icon": "icon48.png",
     "default_popup": "popup.html"

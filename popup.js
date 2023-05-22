@@ -8,7 +8,7 @@ async function setup() {
   const endpoint = 'https://api.openai.com/v1/completions';
 
   // Query the OpenAI API
-  const prompt = `Assume that I'm a beginner and explain the given text in a detailed way using simple words: "${word}"`;
+  const prompt = `Provide a famous quote that fits the following context: "${word}"`;
   console.log('asking for fetch requestion');
   const response = await fetch(endpoint, {
     method: 'POST',
